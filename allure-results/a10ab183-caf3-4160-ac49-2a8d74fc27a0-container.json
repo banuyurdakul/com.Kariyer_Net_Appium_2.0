@@ -1,1 +1,0 @@
-{"uuid":"a10ab183-caf3-4160-ac49-2a8d74fc27a0","name":"tests.TestMain.goToLogin","children":["997bdb02-0e2f-4d3a-bb4a-02c6c1d86b3f"],"description":"","befores":[{"name":"goToLogin","status":"broken","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1712089158831,"stop":1712089158831}],"afters":[],"start":1712089158831,"stop":1712089158831}
